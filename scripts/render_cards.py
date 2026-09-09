@@ -76,7 +76,30 @@ def main():
         body += text(34, y, label, 13, '#a78bfa') + text(34, y+32, value, 20)
     card('beyond.svg', '05 / BEYOND THE CODE', 'cat interests.txt', body, 458,
          ' '.join(value for _, value in interests))
-    card('footer.svg', '06 / NEXT CONNECTION', 'echo $MINDSET',
+    card('socials.svg', '06 / SOCIAL LINKS', 'connect --social',
+         text(34, 149, 'Encuéntrame en mis redes o escríbeme por correo.', 20, '#9baaca'),
+         188, 'Redes sociales y correo de Cristian Sinoe.')
+    socials = [
+        ('instagram', 'INSTAGRAM', '@sinoeruizoficial', '#ff2d95'),
+        ('facebook', 'FACEBOOK', 'sinoe.ruiz.1', '#00e5ff'),
+        ('x', 'X', '@sinoe_ruiz', '#a78bfa'),
+        ('threads', 'THREADS', '@sinoeruizoficial', '#00e5ff'),
+        ('tiktok', 'TIKTOK', '@sinoe_ruiz', '#ff2d95'),
+        ('email', 'CORREO ELECTRÓNICO', 'sinoeruizoficial@gmail.com', '#a78bfa')]
+    for slug, label, handle, color in socials:
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="540" height="164" viewBox="0 0 540 164" role="img" aria-labelledby="title desc">
+<title id="title">{escape(label)}</title><desc id="desc">{escape(handle)}</desc>
+<rect width="540" height="164" rx="14" fill="#0b1020"/>
+<rect x="1" y="1" width="538" height="162" rx="14" fill="none" stroke="#29334f"/>
+<path d="M20 1H200" stroke="{color}" stroke-width="2"/>
+<circle cx="25" cy="28" r="4" fill="{color}"/>
+{text(40, 33, label, 13, '#9baaca')}
+<path d="M20 49H520" stroke="#29334f"/>
+{text(24, 92, handle, 21)}
+{text(24, 137, '[ ESCRIBIR CORREO > ]' if slug == 'email' else '[ ABRIR PERFIL > ]', 13, color)}
+</svg>'''
+        (ASSETS / f'social-{slug}.svg').write_text(svg + '\n', encoding='utf-8')
+    card('footer.svg', '07 / NEXT CONNECTION', 'echo $MINDSET',
          text(34, 159, 'Código, propósito y un poco de caos.', 28) +
          text(34, 210, 'Explora un proyecto, revisa el código y acompaña', 19, '#9baaca') +
          text(34, 240, 'el siguiente experimento.', 19, '#9baaca') +

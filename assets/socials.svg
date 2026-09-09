@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="188" viewBox="0 0 1100 188" role="img" aria-labelledby="title desc">
+<title id="title">06 / SOCIAL LINKS</title><desc id="desc">Redes sociales y correo de Cristian Sinoe.</desc>
+<rect width="1100" height="188" rx="18" fill="#0b1020"/>
+<rect x="1" y="1" width="1098" height="186" rx="18" fill="none" stroke="#29334f"/>
+<path d="M25 1H360" stroke="#00e5ff" stroke-width="2"/><path d="M360 1H520" stroke="#ff2d95" stroke-width="2"/>
+<circle cx="30" cy="30" r="4" fill="#ff2d95"/><circle cx="47" cy="30" r="4" fill="#ffc857"/><circle cx="64" cy="30" r="4" fill="#00e5ff"/>
+<text x="88" y="35" font-family="monospace" font-size="13" fill="#9baaca">06 / SOCIAL LINKS</text>
+<text x="985" y="35" font-family="monospace" font-size="15" fill="#00e5ff">&gt;_</text>
+<path d="M24 58H1076" stroke="#29334f"/>
+<text x="34" y="100" font-family="monospace" font-size="20" fill="#00e5ff">$ connect --social</text>
+<text x="34" y="149" font-family="monospace" font-size="20" fill="#9baaca">Encuéntrame en mis redes o escríbeme por correo.</text>
+</svg>

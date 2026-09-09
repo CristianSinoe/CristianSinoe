@@ -43,4 +43,21 @@ Las imágenes se guardan en este repositorio y se regeneran diariamente con GitH
 
 ![05 / Beyond the code: simulación, seguridad, inteligencia artificial y desarrollo full stack. Conectar interfaces con lógica en acción, proteger APIs y aprender haciendo con Python.](assets/beyond.svg)
 
+![06 / Social links: mis redes sociales y correo electrónico](assets/socials.svg)
+
+<p align="center">
+<a href="https://www.instagram.com/sinoeruizoficial/"><img src="assets/social-instagram.svg" width="49%" alt="Instagram: @sinoeruizoficial" /></a>
+<a href="https://www.facebook.com/sinoe.ruiz.1"><img src="assets/social-facebook.svg" width="49%" alt="Facebook: sinoe.ruiz.1" /></a>
+</p>
+
+<p align="center">
+<a href="https://x.com/sinoe_ruiz"><img src="assets/social-x.svg" width="49%" alt="X: @sinoe_ruiz" /></a>
+<a href="https://www.threads.com/@sinoeruizoficial"><img src="assets/social-threads.svg" width="49%" alt="Threads: @sinoeruizoficial" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.tiktok.com/@sinoe_ruiz"><img src="assets/social-tiktok.svg" width="49%" alt="TikTok: @sinoe_ruiz" /></a>
+<a href="mailto:sinoeruizoficial@gmail.com"><img src="assets/social-email.svg" width="49%" alt="Correo: sinoeruizoficial@gmail.com" /></a>
+</p>
+
 [![Código, propósito y un poco de caos. Explorar todos los proyectos.](assets/footer.svg)](https://github.com/CristianSinoe?tab=repositories)

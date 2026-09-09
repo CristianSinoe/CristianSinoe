@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="164" viewBox="0 0 540 164" role="img" aria-labelledby="title desc">
+<title id="title">INSTAGRAM</title><desc id="desc">@sinoeruizoficial</desc>
+<rect width="540" height="164" rx="14" fill="#0b1020"/>
+<rect x="1" y="1" width="538" height="162" rx="14" fill="none" stroke="#29334f"/>
+<path d="M20 1H200" stroke="#ff2d95" stroke-width="2"/>
+<circle cx="25" cy="28" r="4" fill="#ff2d95"/>
+<text x="40" y="33" font-family="monospace" font-size="13" fill="#9baaca">INSTAGRAM</text>
+<path d="M20 49H520" stroke="#29334f"/>
+<text x="24" y="92" font-family="monospace" font-size="21" fill="#e5edff">@sinoeruizoficial</text>
+<text x="24" y="137" font-family="monospace" font-size="13" fill="#ff2d95">[ ABRIR PERFIL &gt; ]</text>
+</svg>
