@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Cristian Sinoe — Software engineering</title>
+<desc id="desc">Terminal cyberpunk en cian y magenta. Build. Break. Learn. Repeat.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070b14"/><stop offset="1" stop-color="#141127"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#00e5ff"/><stop offset=".55" stop-color="#8871ff"/><stop offset="1" stop-color="#ff2d95"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7784b5" stroke-opacity=".08"/></pattern>
+<style>@keyframes blink{50%{opacity:0}} .cursor{animation:blink 1.3s step-end infinite} @media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+</defs>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="398" rx="20" fill="none" stroke="#2a3150"/>
+<path d="M24 1H1176" stroke="url(#neon)" stroke-width="3"/>
+<g font-family="monospace">
+<circle cx="35" cy="30" r="5" fill="#ff2d95"/><circle cx="55" cy="30" r="5" fill="#ffc857"/><circle cx="75" cy="30" r="5" fill="#00e5ff"/>
+<text x="103" y="35" fill="#8794b4" font-size="12">sinoe@github: ~/creative-lab</text>
+<text x="1000" y="35" fill="#00e5ff" font-size="12">SYSTEM / ONLINE</text>
+<path d="M24 55H1176" stroke="#252c45"/>
+<text x="56" y="108" fill="#00e5ff" font-size="15" letter-spacing="4">HELLO WORLD_ / SOY</text>
+<text x="56" y="187" fill="#f0f5ff" font-size="68" font-weight="bold" letter-spacing="-3">CRISTIAN SINOE</text>
+<rect x="635" y="202" width="158" height="3" fill="url(#neon)"/>
+<text x="59" y="235" fill="#b6c2df" font-size="20" letter-spacing="3">SOFTWARE ENGINEERING</text>
+<text x="59" y="287" fill="#00e5ff" font-size="17">&gt; build. break. learn. repeat</text>
+<rect class="cursor" x="357" y="273" width="10" height="18" fill="#00e5ff"/>
+<text x="59" y="352" fill="#7e8aa8" font-size="12" letter-spacing="2">FULL STACK / SIMULATION / AI EXPERIMENTS</text>
+<text x="1040" y="352" fill="#ff2d95" font-size="12">CS // 01</text>
+</g>
+<g fill="none" stroke-width="2">
+<path d="M945 108l-57 85 57 86M1050 108l57 85-57 86" stroke="#00e5ff"/>
+<path d="M1023 95l-52 198" stroke="#ff2d95"/>
+<path d="M866 92h-22v210h22M1120 92h22v210h-22" stroke="#393254"/>
+<path d="M875 323h90l20-20h120" stroke="#363957"/>
+<circle cx="1109" cy="303" r="4" fill="#ff2d95" stroke="none"/>
+</g>
+</svg>
