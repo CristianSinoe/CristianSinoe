@@ -3,7 +3,10 @@
 <desc id="desc">Repositorios públicos propios sin forks, lenguajes principales y actividad de GitHub.</desc>
 <rect width="1200" height="690" rx="18" fill="#0b1020"/>
 <rect x="1" y="1" width="1198" height="688" rx="18" fill="none" stroke="#29334f"/>
-<text x="35" y="40" font-family="monospace" font-size="19" fill="#00e5ff">&gt; github --telemetry</text>
+<path d="M25 1H360" stroke="#00e5ff" stroke-width="2"/><path d="M360 1H520" stroke="#ff2d95" stroke-width="2"/>
+<circle cx="30" cy="30" r="4" fill="#ff2d95"/><circle cx="47" cy="30" r="4" fill="#ffc857"/><circle cx="64" cy="30" r="4" fill="#00e5ff"/>
+<path d="M24 58H1176" stroke="#29334f"/>
+<text x="88" y="35" font-family="monospace" font-size="14" fill="#00e5ff">04 / LIVE TELEMETRY</text>
 <text x="845" y="40" font-family="monospace" font-size="12" fill="#97a7c6">ACTUALIZADO 2026-09-09 UTC</text>
 <rect x="35" y="66" width="210" height="92" rx="4" fill="#121b30">
 </rect>

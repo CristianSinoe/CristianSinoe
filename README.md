@@ -1,15 +1,6 @@
-<div align="center">
-
 ![Cristian Sinoe — Software engineering. Build. Break. Learn. Repeat.](assets/header.svg)
 
-**Desarrollo web · APIs · Simulación · Experimentos con Python**
-
-Construyo interfaces, conecto servicios y convierto ideas en proyectos que funcionan.
-
-[![Explora mis repositorios](https://img.shields.io/badge/REPOSITORIOS-00E5FF?style=for-the-badge&logo=github&logoColor=070B14)](https://github.com/CristianSinoe?tab=repositories)
-[![Proyecto GRIDBOT](https://img.shields.io/badge/PROYECTO_DESTACADO-GRIDBOT-FF2D95?style=for-the-badge&labelColor=101827)](https://github.com/CristianSinoe/gridrobot)
-
-</div>
+[![Desarrollo web, APIs, simulación y experimentos con Python. Explorar repositorios.](assets/intro.svg)](https://github.com/CristianSinoe?tab=repositories)
 
 ![Sobre mí: Cristian Sinoe, Ingeniería de Software, lenguajes e intereses](assets/about.svg)
 
@@ -23,79 +14,21 @@ const cristian = {
   lenguajes: ["Java", "Python", "JavaScript", "TypeScript"],
   construyendo: ["Aplicaciones web", "APIs REST", "Simuladores"],
   explorando: ["Inteligencia artificial", "Seguridad", "Automatización"],
-  filosofía: "Si puedo imaginarlo, puedo intentar programarlo."
+  filosofía: "Código, propósito y un poco de caos."
 };
 ```
 
 </details>
 
-### `02 / tech arsenal`
+![02 / Tech arsenal: Java, Python, JavaScript, TypeScript, HTML, CSS; React, Vite; Spring Boot, PostgreSQL, Prisma; Git, GitHub, Docker. REST APIs, WebSockets, JWT, OTP, Spring Security y JPA / Hibernate.](assets/stack.svg)
 
-Tecnologías presentes en mis repositorios. Siempre hay algo nuevo por aprender.
+[![GRIDBOT: simulador de robots. TypeScript, React, Vite, Prisma y Docker.](assets/project-gridbot.svg)](https://github.com/CristianSinoe/gridrobot)
 
-<table>
-<tr><td><strong>Lenguajes</strong></td><td>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" alt="Java, Python, JavaScript, TypeScript, HTML y CSS" />
-</td></tr>
-<tr><td><strong>Frontend</strong></td><td>
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React y Vite" />
-</td></tr>
-<tr><td><strong>Backend y datos</strong></td><td>
-<img src="https://skillicons.dev/icons?i=spring,postgres,prisma&theme=dark" alt="Spring Boot, PostgreSQL y Prisma" />
-</td></tr>
-<tr><td><strong>Herramientas</strong></td><td>
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub y Docker" />
-</td></tr>
-</table>
+[![Auth MFA: autenticación con OTP y JWT. Java, Spring Boot, React y PostgreSQL.](assets/project-auth.svg)](https://github.com/CristianSinoe/auth-mfa-spring-react)
 
-`REST APIs` · `WebSockets` · `JWT / OTP` · `Spring Security` · `JPA / Hibernate`
+[![TutorLink: proyecto académico en JavaScript.](assets/project-tutorlink.svg)](https://github.com/CristianSinoe/tutorlink-academic)
 
-### `03 / mission control`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [GRIDBOT](https://github.com/CristianSinoe/gridrobot)
-
-Simulador de robots sobre una cuadrícula. Interfaz web, API con WebSocket y un motor de simulación compartido.
-
-**TypeScript · React · Vite · Prisma · Docker**
-
-</td>
-<td width="50%" valign="top">
-
-#### [Auth MFA](https://github.com/CristianSinoe/auth-mfa-spring-react)
-
-Autenticación multifactor con registro, inicio de sesión, códigos OTP por correo y acceso protegido con JWT.
-
-**Java · Spring Boot · React · PostgreSQL**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [TutorLink](https://github.com/CristianSinoe/tutorlink-academic)
-
-Proyecto académico TutorLink. Una parte de mi recorrido construyendo software y llevando ideas al código.
-
-**JavaScript · Proyecto académico**
-
-</td>
-<td width="50%" valign="top">
-
-#### [Laboratorio Python](https://github.com/CristianSinoe?tab=repositories&language=python)
-
-Prácticas y experimentos de inteligencia artificial: desde clasificación de correo hasta redes de Hopfield.
-
-**Python · Inteligencia artificial · Aprendizaje**
-
-</td>
-</tr>
-</table>
-
-### `04 / live telemetry`
+[![Laboratorio Python: clasificación de correo y redes de Hopfield.](assets/project-python.svg)](https://github.com/CristianSinoe?tab=repositories&language=python)
 
 ![Estadísticas de GitHub: repositorios públicos propios, estrellas, contribuciones y lenguajes principales](assets/metrics.svg)
 
@@ -108,21 +41,6 @@ Las imágenes se guardan en este repositorio y se regeneran diariamente con GitH
 
 </details>
 
-### `05 / beyond the code`
+![05 / Beyond the code: simulación, seguridad, inteligencia artificial y desarrollo full stack. Conectar interfaces con lógica en acción, proteger APIs y aprender haciendo con Python.](assets/beyond.svg)
 
-- Me interesa conectar interfaces con simulaciones y lógica que se pueda ver en acción.
-- Exploro cómo construir flujos de autenticación y proteger APIs.
-- Uso Python para experimentar con inteligencia artificial y aprender haciendo.
-- Me gusta trabajar en distintas capas de una aplicación: interfaz, backend y datos.
-
-<div align="center">
-
----
-
-**`> build. break. learn. repeat_`**
-
-Gracias por visitar mi rincón de GitHub. Explora un proyecto, revisa el código y acompaña el siguiente experimento.
-
-[**Explorar todos los proyectos ↗**](https://github.com/CristianSinoe?tab=repositories)
-
-</div>
+[![Código, propósito y un poco de caos. Explorar todos los proyectos.](assets/footer.svg)](https://github.com/CristianSinoe?tab=repositories)

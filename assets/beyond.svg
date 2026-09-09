@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="458" viewBox="0 0 1100 458" role="img" aria-labelledby="title desc">
+<title id="title">05 / BEYOND THE CODE</title><desc id="desc">Conectar interfaces con simulaciones y lógica en acción. Construir autenticación y proteger APIs. Experimentar con Python y aprender haciendo. Trabajar en interfaz, backend y datos.</desc>
+<rect width="1100" height="458" rx="18" fill="#0b1020"/>
+<rect x="1" y="1" width="1098" height="456" rx="18" fill="none" stroke="#29334f"/>
+<path d="M25 1H360" stroke="#00e5ff" stroke-width="2"/><path d="M360 1H520" stroke="#ff2d95" stroke-width="2"/>
+<circle cx="30" cy="30" r="4" fill="#ff2d95"/><circle cx="47" cy="30" r="4" fill="#ffc857"/><circle cx="64" cy="30" r="4" fill="#00e5ff"/>
+<text x="88" y="35" font-family="monospace" font-size="13" fill="#9baaca">05 / BEYOND THE CODE</text>
+<text x="985" y="35" font-family="monospace" font-size="15" fill="#00e5ff">&gt;_</text>
+<path d="M24 58H1076" stroke="#29334f"/>
+<text x="34" y="100" font-family="monospace" font-size="20" fill="#00e5ff">$ cat interests.txt</text>
+<text x="34" y="150" font-family="monospace" font-size="13" fill="#a78bfa">SIMULACIÓN</text><text x="34" y="182" font-family="monospace" font-size="20" fill="#e5edff">Conectar interfaces con simulaciones y lógica en acción.</text><text x="34" y="232" font-family="monospace" font-size="13" fill="#a78bfa">SEGURIDAD</text><text x="34" y="264" font-family="monospace" font-size="20" fill="#e5edff">Construir autenticación y proteger APIs.</text><text x="34" y="314" font-family="monospace" font-size="13" fill="#a78bfa">INTELIGENCIA ARTIFICIAL</text><text x="34" y="346" font-family="monospace" font-size="20" fill="#e5edff">Experimentar con Python y aprender haciendo.</text><text x="34" y="396" font-family="monospace" font-size="13" fill="#a78bfa">FULL STACK</text><text x="34" y="428" font-family="monospace" font-size="20" fill="#e5edff">Trabajar en interfaz, backend y datos.</text>
+</svg>

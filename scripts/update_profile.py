@@ -56,7 +56,10 @@ def render(repos, activity, updated):
             parts.append(f'<title>{escape(label)}</title>')
         parts.append('</rect>')
 
-    text(35, 40, '> github --telemetry', 19, '#00e5ff')
+    parts.append('<path d="M25 1H360" stroke="#00e5ff" stroke-width="2"/><path d="M360 1H520" stroke="#ff2d95" stroke-width="2"/>')
+    parts.append('<circle cx="30" cy="30" r="4" fill="#ff2d95"/><circle cx="47" cy="30" r="4" fill="#ffc857"/><circle cx="64" cy="30" r="4" fill="#00e5ff"/>')
+    parts.append('<path d="M24 58H1176" stroke="#29334f"/>')
+    text(88, 35, '04 / LIVE TELEMETRY', 14, '#00e5ff')
     text(845, 40, f'ACTUALIZADO {updated} UTC', 12)
     calendar = activity['contributionCalendar']
     metrics = [(len(repos), 'REPOS PÚBLICOS'),
