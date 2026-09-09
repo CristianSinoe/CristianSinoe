@@ -39,10 +39,10 @@
 <rect x="620" y="228" width="489.23" height="6" rx="3" fill="#ff2d95">
 </rect>
 <text x="35" y="262" font-family="monospace" font-size="13" fill="#d8e4ff">Python</text>
-<text x="480" y="262" font-family="monospace" font-size="12" fill="#97a7c6">10 repos</text>
+<text x="480" y="262" font-family="monospace" font-size="12" fill="#97a7c6">11 repos</text>
 <rect x="35" y="271" width="530" height="6" rx="3" fill="#1c2840">
 </rect>
-<rect x="35" y="271" width="407.69" height="6" rx="3" fill="#a78bfa">
+<rect x="35" y="271" width="448.46" height="6" rx="3" fill="#a78bfa">
 </rect>
 <text x="620" y="262" font-family="monospace" font-size="13" fill="#d8e4ff">TypeScript</text>
 <text x="1065" y="262" font-family="monospace" font-size="12" fill="#97a7c6">7 repos</text>
@@ -136,14 +136,14 @@
 <rect x="122" y="432" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-09-30: 0 contribuciones</title>
 </rect>
-<rect x="122" y="452" width="16" height="16" rx="3" fill="#137c93">
-<title>2025-10-01: 2 contribuciones</title>
+<rect x="122" y="452" width="16" height="16" rx="3" fill="#1b253b">
+<title>2025-10-01: 0 contribuciones</title>
 </rect>
-<rect x="122" y="472" width="16" height="16" rx="3" fill="#124c64">
-<title>2025-10-02: 1 contribuciones</title>
+<rect x="122" y="472" width="16" height="16" rx="3" fill="#137c93">
+<title>2025-10-02: 2 contribuciones</title>
 </rect>
-<rect x="122" y="492" width="16" height="16" rx="3" fill="#1b253b">
-<title>2025-10-03: 0 contribuciones</title>
+<rect x="122" y="492" width="16" height="16" rx="3" fill="#124c64">
+<title>2025-10-03: 1 contribuciones</title>
 </rect>
 <rect x="122" y="512" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-10-04: 0 contribuciones</title>
@@ -190,8 +190,8 @@
 <rect x="162" y="512" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-10-18: 0 contribuciones</title>
 </rect>
-<rect x="182" y="392" width="16" height="16" rx="3" fill="#124c64">
-<title>2025-10-19: 1 contribuciones</title>
+<rect x="182" y="392" width="16" height="16" rx="3" fill="#1b253b">
+<title>2025-10-19: 0 contribuciones</title>
 </rect>
 <rect x="182" y="412" width="16" height="16" rx="3" fill="#124c64">
 <title>2025-10-20: 1 contribuciones</title>
@@ -199,8 +199,8 @@
 <rect x="182" y="432" width="16" height="16" rx="3" fill="#124c64">
 <title>2025-10-21: 1 contribuciones</title>
 </rect>
-<rect x="182" y="452" width="16" height="16" rx="3" fill="#1b253b">
-<title>2025-10-22: 0 contribuciones</title>
+<rect x="182" y="452" width="16" height="16" rx="3" fill="#124c64">
+<title>2025-10-22: 1 contribuciones</title>
 </rect>
 <rect x="182" y="472" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-10-23: 0 contribuciones</title>
@@ -283,11 +283,11 @@
 <rect x="262" y="432" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-11-18: 0 contribuciones</title>
 </rect>
-<rect x="262" y="452" width="16" height="16" rx="3" fill="#137c93">
-<title>2025-11-19: 2 contribuciones</title>
+<rect x="262" y="452" width="16" height="16" rx="3" fill="#124c64">
+<title>2025-11-19: 1 contribuciones</title>
 </rect>
-<rect x="262" y="472" width="16" height="16" rx="3" fill="#124c64">
-<title>2025-11-20: 1 contribuciones</title>
+<rect x="262" y="472" width="16" height="16" rx="3" fill="#137c93">
+<title>2025-11-20: 2 contribuciones</title>
 </rect>
 <rect x="262" y="492" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-11-21: 0 contribuciones</title>
@@ -322,11 +322,11 @@
 <rect x="302" y="412" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-12-01: 0 contribuciones</title>
 </rect>
-<rect x="302" y="432" width="16" height="16" rx="3" fill="#00e5ff">
-<title>2025-12-02: 7 contribuciones</title>
+<rect x="302" y="432" width="16" height="16" rx="3" fill="#1b253b">
+<title>2025-12-02: 0 contribuciones</title>
 </rect>
-<rect x="302" y="452" width="16" height="16" rx="3" fill="#1b253b">
-<title>2025-12-03: 0 contribuciones</title>
+<rect x="302" y="452" width="16" height="16" rx="3" fill="#00e5ff">
+<title>2025-12-03: 7 contribuciones</title>
 </rect>
 <rect x="302" y="472" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-12-04: 0 contribuciones</title>
@@ -344,10 +344,10 @@
 <title>2025-12-08: 0 contribuciones</title>
 </rect>
 <rect x="322" y="432" width="16" height="16" rx="3" fill="#137c93">
-<title>2025-12-09: 3 contribuciones</title>
+<title>2025-12-09: 2 contribuciones</title>
 </rect>
-<rect x="322" y="452" width="16" height="16" rx="3" fill="#1b253b">
-<title>2025-12-10: 0 contribuciones</title>
+<rect x="322" y="452" width="16" height="16" rx="3" fill="#124c64">
+<title>2025-12-10: 1 contribuciones</title>
 </rect>
 <rect x="322" y="472" width="16" height="16" rx="3" fill="#1b253b">
 <title>2025-12-11: 0 contribuciones</title>
@@ -595,11 +595,11 @@
 <rect x="562" y="412" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-03-02: 0 contribuciones</title>
 </rect>
-<rect x="562" y="432" width="16" height="16" rx="3" fill="#124c64">
-<title>2026-03-03: 1 contribuciones</title>
+<rect x="562" y="432" width="16" height="16" rx="3" fill="#1b253b">
+<title>2026-03-03: 0 contribuciones</title>
 </rect>
-<rect x="562" y="452" width="16" height="16" rx="3" fill="#1b253b">
-<title>2026-03-04: 0 contribuciones</title>
+<rect x="562" y="452" width="16" height="16" rx="3" fill="#124c64">
+<title>2026-03-04: 1 contribuciones</title>
 </rect>
 <rect x="562" y="472" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-03-05: 0 contribuciones</title>
@@ -643,11 +643,11 @@
 <rect x="602" y="452" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-03-18: 0 contribuciones</title>
 </rect>
-<rect x="602" y="472" width="16" height="16" rx="3" fill="#124c64">
-<title>2026-03-19: 1 contribuciones</title>
+<rect x="602" y="472" width="16" height="16" rx="3" fill="#1b253b">
+<title>2026-03-19: 0 contribuciones</title>
 </rect>
-<rect x="602" y="492" width="16" height="16" rx="3" fill="#1b253b">
-<title>2026-03-20: 0 contribuciones</title>
+<rect x="602" y="492" width="16" height="16" rx="3" fill="#124c64">
+<title>2026-03-20: 1 contribuciones</title>
 </rect>
 <rect x="602" y="512" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-03-21: 0 contribuciones</title>
@@ -811,11 +811,11 @@
 <rect x="762" y="452" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-05-13: 0 contribuciones</title>
 </rect>
-<rect x="762" y="472" width="16" height="16" rx="3" fill="#124c64">
-<title>2026-05-14: 1 contribuciones</title>
+<rect x="762" y="472" width="16" height="16" rx="3" fill="#1b253b">
+<title>2026-05-14: 0 contribuciones</title>
 </rect>
-<rect x="762" y="492" width="16" height="16" rx="3" fill="#1b253b">
-<title>2026-05-15: 0 contribuciones</title>
+<rect x="762" y="492" width="16" height="16" rx="3" fill="#124c64">
+<title>2026-05-15: 1 contribuciones</title>
 </rect>
 <rect x="762" y="512" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-05-16: 0 contribuciones</title>
@@ -889,11 +889,11 @@
 <rect x="842" y="412" width="16" height="16" rx="3" fill="#137c93">
 <title>2026-06-08: 3 contribuciones</title>
 </rect>
-<rect x="842" y="432" width="16" height="16" rx="3" fill="#124c64">
-<title>2026-06-09: 1 contribuciones</title>
+<rect x="842" y="432" width="16" height="16" rx="3" fill="#1b253b">
+<title>2026-06-09: 0 contribuciones</title>
 </rect>
-<rect x="842" y="452" width="16" height="16" rx="3" fill="#1b253b">
-<title>2026-06-10: 0 contribuciones</title>
+<rect x="842" y="452" width="16" height="16" rx="3" fill="#124c64">
+<title>2026-06-10: 1 contribuciones</title>
 </rect>
 <rect x="842" y="472" width="16" height="16" rx="3" fill="#1b253b">
 <title>2026-06-11: 0 contribuciones</title>
@@ -1165,10 +1165,13 @@
 <rect x="1102" y="432" width="16" height="16" rx="3" fill="#137c93">
 <title>2026-09-08: 3 contribuciones</title>
 </rect>
+<rect x="1102" y="452" width="16" height="16" rx="3" fill="#1b253b">
+<title>2026-09-09: 0 contribuciones</title>
+</rect>
 <text x="35" y="424" font-family="monospace" font-size="11" fill="#97a7c6">L</text>
 <text x="35" y="464" font-family="monospace" font-size="11" fill="#97a7c6">M</text>
 <text x="35" y="504" font-family="monospace" font-size="11" fill="#97a7c6">V</text>
-<text x="35" y="567" font-family="monospace" font-size="14" fill="#d8e4ff">27 días activos  /  mejor racha del período: 3 días</text>
+<text x="35" y="567" font-family="monospace" font-size="14" fill="#d8e4ff">28 días activos  /  mejor racha del período: 3 días</text>
 <text x="905" y="567" font-family="monospace" font-size="10" fill="#97a7c6">MENOS</text>
 <rect x="948" y="554" width="16" height="16" rx="3" fill="#1b253b">
 </rect>
