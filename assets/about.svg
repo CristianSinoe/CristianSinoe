@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="510" viewBox="0 0 1100 510" role="img" aria-labelledby="title desc">
+<title id="title">01 / whoami — Cristian Sinoe</title>
+<desc id="desc">Ingeniería de Software en la Universidad Veracruzana. Java, Python, JavaScript y TypeScript. Aplicaciones web, APIs REST y simuladores. Explorando inteligencia artificial, seguridad y automatización.</desc>
+<rect width="1100" height="510" rx="18" fill="#0b1020"/>
+<rect x="1" y="1" width="1098" height="508" rx="18" fill="none" stroke="#29334f"/>
+<path d="M25 1H360" stroke="#00e5ff" stroke-width="2"/>
+<path d="M360 1H520" stroke="#ff2d95" stroke-width="2"/>
+<g font-family="monospace">
+<circle cx="30" cy="30" r="4" fill="#ff2d95"/><circle cx="47" cy="30" r="4" fill="#ffc857"/><circle cx="64" cy="30" r="4" fill="#00e5ff"/>
+<text x="88" y="35" font-size="13" fill="#9baaca">profile.config / cristian</text>
+<text x="942" y="35" font-size="12" fill="#00e5ff">01 / WHOAMI</text>
+<path d="M24 58H1076" stroke="#29334f"/>
+<text x="34" y="100" font-size="20" fill="#00e5ff">sinoe@github</text>
+<text x="190" y="100" font-size="20" fill="#e5edff">:~ $ whoami</text>
+<text x="34" y="149" font-size="13" fill="#a78bfa" letter-spacing="1">IDENTIDAD</text>
+<text x="225" y="149" font-size="20" fill="#e5edff">Cristian Sinoe Hernández Ruiz</text>
+<text x="34" y="196" font-size="13" fill="#a78bfa" letter-spacing="1">FORMACIÓN</text>
+<text x="225" y="196" font-size="20" fill="#e5edff">Ingeniería de Software</text>
+<text x="225" y="225" font-size="17" fill="#9baaca">Universidad Veracruzana</text>
+<text x="34" y="272" font-size="13" fill="#a78bfa" letter-spacing="1">LENGUAJES</text>
+<text x="225" y="272" font-size="20" fill="#e5edff">Java / Python / JavaScript / TypeScript</text>
+<text x="34" y="319" font-size="13" fill="#a78bfa" letter-spacing="1">CONSTRUYENDO</text>
+<text x="225" y="319" font-size="20" fill="#e5edff">Aplicaciones web / APIs REST / Simuladores</text>
+<text x="34" y="366" font-size="13" fill="#a78bfa" letter-spacing="1">EXPLORANDO</text>
+<text x="225" y="366" font-size="20" fill="#e5edff">Inteligencia artificial / Seguridad / Automatización</text>
+<path d="M34 402H1066" stroke="#29334f"/>
+<text x="34" y="435" font-size="12" letter-spacing="2" fill="#ff2d95">MINDSET /</text>
+<text x="34" y="470" font-size="20" fill="#dce7ff">Si puedo imaginarlo, puedo intentar programarlo.</text>
+<text x="996" y="470" font-size="22" fill="#00e5ff">&gt;_</text>
+</g></svg>

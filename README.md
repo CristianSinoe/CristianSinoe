@@ -11,7 +11,10 @@ Construyo interfaces, conecto servicios y convierto ideas en proyectos que funci
 
 </div>
 
-### `01 / whoami`
+![Sobre mí: Cristian Sinoe, Ingeniería de Software, lenguajes e intereses](assets/about.svg)
+
+<details>
+<summary>Ver presentación en texto</summary>
 
 ```javascript
 const cristian = {
@@ -23,6 +26,8 @@ const cristian = {
   filosofía: "Si puedo imaginarlo, puedo intentar programarlo."
 };
 ```
+
+</details>
 
 ### `02 / tech arsenal`
 
